@@ -18,12 +18,12 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
 
 3. **Git**:  Para clonar o repositório, execute:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/bk2564/tecsus.git
    ```
 
 4. Navegue até o diretório do repositório clonado:
    ```bash
-   cd seu-repositorio
+   cd tecsus
    ```
 
 
@@ -31,7 +31,7 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
 
 1. Construir a Imagem Docker: Utilize o comando abaixo para construir a imagem:
    ```bash
-   docker build -t seu-usuario/nome-do-projeto .
+   docker build -t bk2564/tecsus .
    ```
 
 2. Fazer login no Docker Hub (opcional):
