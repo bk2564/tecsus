@@ -50,5 +50,6 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
    ```
 5. Parar a Execução: Para parar e remover os containers, utilize:
    ```bash
+   Ctrl+C e depois
    docker-compose down
    ```
