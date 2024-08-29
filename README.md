@@ -44,7 +44,11 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
    docker-compose up
    ```
 
-4. Parar a Execução: Para parar e remover os containers, utilize:
+4. Utilizar a aplicação: Vá no seu navegador e digite:
+   ```bash
+   http://localhost:8080
+   ```
+5. Parar a Execução: Para parar e remover os containers, utilize:
    ```bash
    docker-compose down
    ```
