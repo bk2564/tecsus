@@ -29,26 +29,21 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
 
 ## Passos:
 
-1. Construir a Imagem Docker: Utilize o comando abaixo para construir a imagem:
-   ```bash
-   docker build -t bk2564/tecsus .
-   ```
-
-2. Fazer login no Docker Hub (opcional):
+1. Fazer login no Docker Hub (opcional):
    ```bash
    docker login
    ```
 
-3. Executar com Docker Compose:
+2. Executar com Docker Compose:
    ```bash
    docker-compose up
    ```
 
-4. Utilizar a aplicação: Vá no seu navegador e digite:
+3. Utilizar a aplicação: Vá no seu navegador e digite:
    ```bash
    http://localhost:8080
    ```
-5. Parar a Execução: Para parar e remover os containers, utilize:
+4. Parar a Execução: Para parar e remover os containers, utilize:
    ```bash
    Ctrl+C e depois
    docker-compose down
