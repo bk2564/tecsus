@@ -23,7 +23,7 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
    ```
 
 
-## Passos:
+## Passos (no WSL):
 
 
 1. **Git**:  Para clonar o repositório, execute:
@@ -38,12 +38,12 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
 
 3. Fazer login no Docker Hub (opcional):
    ```bash
-   docker login
+   sudo docker login
    ```
 
 4. Executar com Docker Compose:
    ```bash
-   docker-compose up
+   sudo docker-compose up
    ```
 
 5. Utilizar a aplicação: Vá no seu navegador e digite:
@@ -53,5 +53,5 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
 6. Parar a Execução: Para parar e remover os containers, utilize:
    ```bash
    Ctrl+C e depois
-   docker-compose down
+   sudo docker-compose down
    ```
