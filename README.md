@@ -55,6 +55,6 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
    Ctrl+C
    ```
 6. Remover os containers: Para remover os containers, utilize:
-```bash
-docker-compose down
-```
+   ```bash
+   docker-compose down
+   ```
