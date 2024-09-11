@@ -50,8 +50,11 @@ Antes de iniciar, certifique-se de que os seguintes softwares estejam instalados
    ```bash
    http://localhost:8080
    ```
-6. Parar a Execução: Para parar e remover os containers, utilize:
+6. Parar a Execução: Para parar a execução, utilize:
    ```bash
-   Ctrl+C e depois
-   sudo docker-compose down
+   Ctrl+C
    ```
+6. Remover os containers: Para remover os containers, utilize:
+```bash
+docker-compose down
+```
