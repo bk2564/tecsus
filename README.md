@@ -1,6 +1,6 @@
 # Projeto de Tecnologias Sustentáveis
 
-Este projeto tem como objetivo desenvolver e implementar um sistema web simples utilizando Docker, garantindo que o ambiente seja isolado e portável. O sistema será disponibilizado tanto no Docker Hub quanto no GitHub.
+Este projeto tem como objetivo desenvolver e implementar um sistema web simples utilizando Docker, garantindo que o ambiente seja isolado e portável. O sistema é só uma página Web estática
 
 ## Pré-requisitos
 
